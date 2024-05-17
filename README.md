@@ -28,3 +28,9 @@ This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibi
 
 - If you have any questions do not hesitate to enter my discord: https://discord.gg/Un63v2truD
 - Or if you have any error do not forget to report it in: [issues](https://github.com/H4cK3dR4Du/Discord-Token-Generator/issues/new)
+
+clone - git clone https://github.com/samidv/Discord-Token-Generator.git
+
+fill config file
+
+run
